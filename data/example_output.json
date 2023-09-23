@@ -1,0 +1,12 @@
+{'SUMMARY': 'Can you please do my taxes?',
+ 'INTENT': 'Taxes',
+ 'RESOLUTION': 'Yes',
+ 'PRODUCT': 'Taxes',
+ 'PROBLEM_SIGNATURE': 'Can you please do my taxes?',
+ 'AGENT_ACTION': 'The agent did the taxes.',
+ 'AGENT_MANNER': 'Polite',
+ 'CUSTOMER_MANNER': 'Polite',
+ 'REPEAT_CALL': 'No',
+ 'CATEGORY_1': 'Tax',
+ 'CATEGORY_2': 'Tax',
+ 'CATEGORY_3': 'Tax preparation'}
